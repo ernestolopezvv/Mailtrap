@@ -13,6 +13,7 @@ receiver = "y"
 
 message = f"""\
 Subject: Greetings,
+
 To: {receiver}
 From: {sender}
 
